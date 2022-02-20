@@ -1,0 +1,25 @@
+{
+  "kind": 1,
+  "closed": true,
+  "precision": 4,
+  "points": [
+    {"speed":100.0,"x":928.0,"y":512.0,},
+    {"speed":100.0,"x":1152.0,"y":608.0,},
+    {"speed":100.0,"x":1312.0,"y":448.0,},
+    {"speed":100.0,"x":1216.0,"y":256.0,},
+    {"speed":100.0,"x":960.0,"y":128.0,},
+    {"speed":100.0,"x":576.0,"y":512.0,},
+    {"speed":100.0,"x":128.0,"y":704.0,},
+    {"speed":100.0,"x":128.0,"y":256.0,},
+    {"speed":100.0,"x":576.0,"y":160.0,},
+    {"speed":100.0,"x":768.0,"y":544.0,},
+  ],
+  "parent": {
+    "name": "Paths",
+    "path": "folders/Paths.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "lookOut",
+  "tags": [],
+  "resourceType": "GMPath",
+}
