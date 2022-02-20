@@ -1,2 +1,2 @@
 # Game_BerryCherry
-Reminesent Game of the yore that has Berry collecting cherries in caves!
+Reminesent Game of yore that has Berry collecting cherries in caves!
