@@ -10,7 +10,7 @@ if(!instance_exists(obj_goal)){
 	audio_play_sound(snd_goal, 1, false);
 }
 
-if(global.game_state == states.winning){
+if(global.game_state == states.winning || global.game_state == states.gameover){
 	if(alarm[0] == -1){
 		alarm[0]=3*room_speed;
 	}
