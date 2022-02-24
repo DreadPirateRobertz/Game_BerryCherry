@@ -13,3 +13,4 @@ enum states {
 	winning
 };
 global.game_state = states.playing;
+counter = 0;
